@@ -1,2 +1,4 @@
 # librarybash_1
-luli
+library code
+availble for:
+ubuntu
